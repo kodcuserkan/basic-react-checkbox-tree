@@ -1,1 +1,1 @@
-A basic level React-bo0tstrap checkbox sample.
+A basic level React-bootstrap checkbox sample.
